@@ -19,7 +19,7 @@ const void* exception_get();
 /**
  * Set current exception
  *
- * @param msg error message
+ * @param exception error message
  */
 void exception_set(const void *exception);
 
